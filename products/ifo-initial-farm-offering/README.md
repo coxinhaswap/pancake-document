@@ -4,7 +4,7 @@
 
 Buy new tokens using CAKE.&#x20;
 
-The project gets the CAKE, PancakeSwap burns the participation fees CAKE. **You get the tokens.**
+The project gets the CAKE, CoxinhaSwap burns the participation fees CAKE. **You get the tokens.**
 
 1. **You will need CAKE** to participate.
 
@@ -12,20 +12,20 @@ Learn [how to find IFO smart contracts](broken-reference)
 
 ## **How to participate in an IFO**
 
-Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find out more about IFOs.
+Visit [https://CoxinhaSwap.finance/ifo](https://CoxinhaSwap.finance/ifo) to find out more about IFOs.
 
 Before Sale:
 
-1. [Buy CAKE](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
+1. [Buy CAKE](https://exchange.CoxinhaSwap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
 
 During Sale:
 
-1. While the sale is live, commit your CAKE tokens to buy the IFO tokens at [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo)
+1. While the sale is live, commit your CAKE tokens to buy the IFO tokens at [https://CoxinhaSwap.finance/ifo](https://CoxinhaSwap.finance/ifo)
 
 After Sale:
 
 1. When the sale is complete, claim the IFO tokens you've bought.
-2. Done! In the case of an [overflow](https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/\~/drafts/-MMK-KmBq5\_Mfs94Ul6x/core-products/ifo-initial-farm-offering#overflow) you can reclaim your remaining CAKE tokens.
+2. Done! In the case of an [overflow](https://app.gitbook.com/@CoxinhaSwap-1/s/CoxinhaSwap/\~/drafts/-MMK-KmBq5\_Mfs94Ul6x/core-products/ifo-initial-farm-offering#overflow) you can reclaim your remaining CAKE tokens.
 
 ## **What is the “Overflow” sale method?** <a href="#overflow" id="overflow"></a>
 
@@ -44,6 +44,6 @@ The sale will proceed as normal, and all funds contributed will be spent.
 
 ## Want to launch your own IFO?
 
-Launch your project with PancakeSwap, BNB Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
+Launch your project with CoxinhaSwap, BNB Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
 
 ****[Apply to launch](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)

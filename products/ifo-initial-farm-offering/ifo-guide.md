@@ -6,7 +6,7 @@
 Warning: this page is outdated. As we will be bringing several new updates to the IFO process over the coming weeks, we won't keep this page up to date for now: please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in instead.
 {% endhint %}
 
-An IFO on PancakeSwap is an Initial Farm Offering. IFOs let you get early access to PancakeSwap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
+An IFO on CoxinhaSwap is an Initial Farm Offering. IFOs let you get early access to CoxinhaSwap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
 
 IFOs are available for a very limited time. Get ready ahead of the event to make sure you can participate!
 
@@ -14,21 +14,21 @@ IFOs are available for a very limited time. Get ready ahead of the event to make
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### Create your PancakeSwap profile
+### Create your CoxinhaSwap profile
 
-To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.\
+To take part in an IFO, you'll need a CoxinhaSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.\
 \
-To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
+To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.CoxinhaSwap.finance/get-started/profile-guide).
 
 ### Get CAKE-BNB Liquidity Tokens
 
 Once you have a profile, you will also need to provide liquidity to get some CAKE-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO.\
 \
-To provide liquidity and get some CAKE-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+To provide liquidity and get some CAKE-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.CoxinhaSwap.finance/get-started/liquidity-guide).
 
 ### Check on your progress
 
-Once you’ve followed the steps above, go back to the IFO page [here](https://pancakeswap.finance/ifo). Scroll down to the colored ‘How to Take Part’ section.\
+Once you’ve followed the steps above, go back to the IFO page [here](https://CoxinhaSwap.finance/ifo). Scroll down to the colored ‘How to Take Part’ section.\
 ****\
 ****![](https://lh5.googleusercontent.com/7Bh78UrDgqLpgsIjtAuX8UFkd8aG7-J3gsp36xGsCG0kPrkYckmy6UgTKQZfUJEkIMccixBdrhVUVmv2kJfnVGq9Vljb\_AXetLk89YzBIiSBPSGaIA-v2vRImzvNrFOnJWQWle-S)****\
 ****\
@@ -50,7 +50,7 @@ The **(blocks)** link will open the BscScan explorer in a new window at the star
 
 #### Use social media
 
-There isn’t a set time before an IFO goes live for the countdown to start, so check PancakeSwap’s official social media accounts for news about upcoming IFO times.
+There isn’t a set time before an IFO goes live for the countdown to start, so check CoxinhaSwap’s official social media accounts for news about upcoming IFO times.
 
 The countdown and announcements will give you plenty of time to prepare.
 
@@ -132,6 +132,6 @@ Confirm the action with your wallet. You'll now have your new tokens. Congratula
 
 Now that you've got your shiny new tokens, you can put them to work for you!
 
-You can add liquidity for your token to receive LP Tokens. Your LP Tokens will let you collect trading fees for your pair. Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+You can add liquidity for your token to receive LP Tokens. Your LP Tokens will let you collect trading fees for your pair. Read about adding liquidity [here](https://docs.CoxinhaSwap.finance/get-started/liquidity-guide).
 
-If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.pancakeswap.finance/products/yield-farming/farms).\
+If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.CoxinhaSwap.finance/products/yield-farming/farms).\

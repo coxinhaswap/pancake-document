@@ -92,15 +92,15 @@ There are three main types of Syrup Pools.
 2. Stake CAKE, earn other tokens. 
 3. Stake other tokens, earn CAKE
 
-The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
+The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.CoxinhaSwap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
 
 The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
 
-For the "Stake other tokens, earn CAKE" type, the PancakeSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by PancakeSwap, not by the projects themselves.
+For the "Stake other tokens, earn CAKE" type, the CoxinhaSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by CoxinhaSwap, not by the projects themselves.
 
 ### What’s SYRUP Token?
 
-PancakeSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for 
+CoxinhaSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for 
 
 It’s basically an IOU that shows how much CAKE you’ve staked in the pool.
 

@@ -18,7 +18,7 @@
 
 #### Help!
 
-### [Customer Support](customer-support.md#there-is-no-customer-support-for-pancakeswap)
+### [Customer Support](customer-support.md#there-is-no-customer-support-for-CoxinhaSwap)
 
 ### [Social Communities](telegram.md)
 

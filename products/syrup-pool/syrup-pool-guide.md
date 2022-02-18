@@ -1,18 +1,18 @@
 ---
-description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
+description: 'Syrup Pools: the simplest way to earn on CoxinhaSwap'
 ---
 
 # How to Stake in Syrup Pools
 
 ![](<../../.gitbook/assets/docs masthead (15) (1).png>)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+Staking in [Syrup Pools](https://docs.CoxinhaSwap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
 
-It's simpler than farming with PancakeSwap's Yield Farms, because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+It's simpler than farming with CoxinhaSwap's Yield Farms, because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
 
 ## **Getting started with Syrup Pool staking**
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. Go to the Pools page [here](https://CoxinhaSwap.finance/pools).
 
 ![](<../../.gitbook/assets/image (18).png>)
 

@@ -2,49 +2,49 @@
 
 ![](<../.gitbook/assets/docs masthead (22).png>)
 
-Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
+Here you'll find a list of CoxinhaSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
 ## 🐦 Twitter
 
-[https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
+[https://twitter.com/coxinhaswap](https://twitter.com/coxinhaswap)
 
 ## 📰 Blog (Medium)
 
-{% embed url="https://medium.com/pancakeswap" %}
+{% embed url="https://medium.com/coxinhaswap" %}
 
 ## 👽 Reddit
 
-{% embed url="https://reddit.com/r/pancakeswap" %}
+{% embed url="https://reddit.com/r/coxinhaswap" %}
 
 ## 🤳 Instagram
 
-{% embed url="https://www.instagram.com/pancakeswap_official/" %}
+{% embed url="https://www.instagram.com/coxinhaswap/" %}
 
 ## 🤖Discord
 
 Newly launched on 24th Nov! The below is the only link for our discord server!
 
-[https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
+[https://discord.gg/coxinhaswap](https://discord.gg/coxinhaswap)
 
 ## 💬 Telegram
 
 **Official Telegram Groups:**
 
-* 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn))&#x20;
-* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap))&#x20;
-* 🇯🇵 Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* 🇨🇳 Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap\_CN))&#x20;
-* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))&#x20;
-* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))&#x20;
-* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))&#x20;
-* 🇷🇺 Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))&#x20;
-* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* 🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))&#x20;
-* 🇮🇹 Italiano ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap\_ita))&#x20;
-* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))&#x20;
-* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
-* 🇵🇭 Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap\_Ph))
-* 🇬🇪 Georgia ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
+* 📣 Announcement Channel ([http://t.me/CoxinhaSwapAnn](http://t.me/CoxinhaSwapAnn))&#x20;
+* 🥞 English ([http://t.me/coxinhaswap](http://t.me/coxinhaswap))&#x20;
+* 🇯🇵 Japanese ([https://t.me/CoxinhaSwapJP](https://t.me/CoxinhaSwapJP))
+* 🇨🇳 Chinese ([http://t.me/CoxinhaSwap\_CN](http://t.me/CoxinhaSwap\_CN))&#x20;
+* 🇮🇩 Indonesian ([http://t.me/CoxinhaSwapIndonesia](http://t.me/CoxinhaSwapIndonesia))&#x20;
+* 🇻🇳 Việt Nam ([https://t.me/CoxinhaSwapVN](https://t.me/CoxinhaSwapVN))&#x20;
+* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/CoxinhaSwapES](https://t.me/CoxinhaSwapES))&#x20;
+* 🇷🇺 Russian ([http://t.me/coxinhaswap\_ru](http://t.me/coxinhaswap\_ru))&#x20;
+* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/CoxinhaSwapPortuguese](https://t.me/CoxinhaSwapPortuguese))
+* 🇫🇷 French ([https://t.me/CoxinhaSwapfr](https://t.me/CoxinhaSwapfr))&#x20;
+* 🇮🇹 Italiano ([https://t.me/coxinhaswap\_ita](https://t.me/coxinhaswap\_ita))&#x20;
+* 🇹🇷 Türkiye ([https://t.me/CoxinhaSwapturkiye](https://t.me/CoxinhaSwapturkiye))&#x20;
+* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/CoxinhaSwap\_DE](https://t.me/CoxinhaSwap\_DE))
+* 🇵🇭 Filipino ([https://t.me/CoxinhaSwap\_Ph](https://t.me/CoxinhaSwap\_Ph))
+* 🇬🇪 Georgia ([https://t.me/CoxinhaSwapGeorgia](https://t.me/CoxinhaSwapGeorgia))
 * 😤 Ban Appeal ([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA))
 
 {% hint style="danger" %}

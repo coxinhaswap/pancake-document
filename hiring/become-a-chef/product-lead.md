@@ -26,5 +26,5 @@
 
 ### How to apply
 
-Email Hiring@pancakeswap.com with your resume and cover letter!
+Email Hiring@CoxinhaSwap.com with your resume and cover letter!
 

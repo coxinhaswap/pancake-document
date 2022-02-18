@@ -4,5 +4,5 @@
 
 ![](<../../.gitbook/assets/image (9) (2).png>)
 
-View PancakeSwap's native analytics site here: [https://pancakeswap.info](https://pancakeswap.info)
+View CoxinhaSwap's native analytics site here: [https://CoxinhaSwap.info](https://CoxinhaSwap.info)
 
