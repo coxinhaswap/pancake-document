@@ -1,6 +1,6 @@
 # CoxinhaSwap Intro
 
-![](<.gitbook/assets/masthead-twitter-3- (1).png>)
+![](<.gitbook/assets/cox/initial.png>)
 
 {% hint style="success" %}
 #### CoxinhaSwap is a platform for exchanging tokens/cryptocurrencies.

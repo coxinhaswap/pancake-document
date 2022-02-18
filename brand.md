@@ -4,7 +4,7 @@ description: Guidlines and downloadable assets like the CoxinhaSwap logo SVG
 
 # Brand & Logos
 
-![](<.gitbook/assets/Frame 6.png>)
+![](<.gitbook/assets/cox/brand.png>)
 
 👇[ Jump to logo download](brand.md#CoxinhaSwap-logo-downloads)
 

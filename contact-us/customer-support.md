@@ -1,6 +1,6 @@
 # Customer Support
 
-![Well, the thing is...](<../.gitbook/assets/docs masthead (23).png>)
+![Well, the thing is...](<../.gitbook/assets/cox/customer.png>)
 
 ## There is NO customer support for CoxinhaSwap.
 

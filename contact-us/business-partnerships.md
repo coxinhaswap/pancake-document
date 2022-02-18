@@ -1,6 +1,6 @@
 # Business Partnerships
 
-![](<../.gitbook/assets/docs masthead (21).png>)
+![](<../.gitbook/assets/cox/business.png>)
 
 
 ## Listing on the Exchange <a href="#exchange" id="exchange"></a>
