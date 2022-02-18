@@ -4,13 +4,17 @@
 
 ### What is "Coxinha"? 
 
-The coxinha is the most famous snack in Brazil, a unanimity in the country of football.
+The coxinha is the most famous snack in Brazil, a unanimity in the country of football. Also,
 
 {% hint style="success" %}
-#### Also, CoxinhaSwap is a platform for exchanging tokens/cryptocurrencies.
+#### CoxinhaSwap is a platform for exchanging tokens/cryptocurrencies.
+{% endhint %}
 
+
+{% hint style="success" %}
 #### You can trade your tokens or provide liquidity to earn trading fees for those who trade.
 {% endhint %}
+
 
 ## ↔️ Trade
 
@@ -36,11 +40,10 @@ Unlike competitors like Sushi or PancakeSwap, all fees are transferred to the li
 However, in order to remain competitive in the long term, in the future we may also charge a protocol fee. \
 
 
-| Protocol                 | Total Fees |  Liquidity Providers Fee |  Protocol Fees |
-| ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
+| Protocol  | Total Fees |  Liquidity Providers Fee |  Protocol Fees |
+| -----------------------| -----------------: | ------------: | ----------: |
 | PancakeSwap       |                     0.25% |                     0.17% |    0.08% |
-| of which diverted and burned  |
-| CoxinhaSwap                 |      0.25% |              0.25% |     0.00% |
+| CoxinhaSwap    |      0.25% |              0.25% |     0.00% |
 
 
 At the moment, CoxinhaSwap has the biggest benefits for liquidity providers in BSC.
