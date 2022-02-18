@@ -66,7 +66,7 @@ Confirm the connection.
 
 ### Buying into the IFO’s Basic Sale
 
-Now that you’ve approved the IFO to spend your Pancake LP Tokens, you’re ready to buy into the IFO.
+Now that you’ve approved the IFO to spend your Coxinha LP Tokens, you’re ready to buy into the IFO.
 
 1\. Go back to the tab you have open with the IFO contract. Click onto **Contract**, and then onto **Write Contract**.
 

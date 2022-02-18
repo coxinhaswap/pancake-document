@@ -70,6 +70,6 @@ By downloading this file, you confirm that you will only use it to the extent pe
 {% hint style="info" %}
 As of November 1st, the COXI token logo will also be represented by the CoxinhaSwap Rabbit icon.
 
-The previous COXI icon, representing pancakes, has been depracated.
+The previous COXI icon, representing Coxinhas, has been depracated.
 {% endhint %}
 

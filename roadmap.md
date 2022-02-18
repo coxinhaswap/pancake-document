@@ -78,7 +78,7 @@ Some items didn't make it into the "Coming Up" section due to security or confid
 * NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
 * Customizable User Profile
 * NFT drops
-* Pancake Squad generative NFT collection
+* Coxinha Squad generative NFT collection
 
 #### Site Upgrades / CAKE / Other Products
 

@@ -35,7 +35,7 @@ For this example we’ll use Dollop.\
 
 4\. A new page will load saying “Choose collectible”. We’ll pick our Dollop we chose earlier. If you already own multiple NFTs you can choose one from a list of NFTs you own.
 
-If you face Oops! error, please check [troubleshooting](https://docs.CoxinhaSwap.finance/help/troubleshooting#oops-we-couldnt-find-any-pancake-collectibles-in-your-wallet).
+If you face Oops! error, please check [troubleshooting](https://docs.CoxinhaSwap.finance/help/troubleshooting#oops-we-couldnt-find-any-Coxinha-collectibles-in-your-wallet).
 
 ![](<../../.gitbook/assets/image (169).png>)
 
