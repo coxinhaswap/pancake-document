@@ -1,5 +1,5 @@
 ---
-description: '"Don''t call it a roadmap"'
+description: 'Next steps for CoxinhaSwap'
 ---
 
 # Roadmap
@@ -8,13 +8,8 @@ description: '"Don''t call it a roadmap"'
 
 _Updated Jan. 21, 2022_
 
-### Finally, it's a roadmap not a to-do list.
+### Roadmap.
 
-Crypto moves fast, and we move fast too.
-
-Pivoting is a way of life.
-
-That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
 ![](.gitbook/assets/roadmap.png)
 
@@ -22,11 +17,16 @@ That means that we don’t publicly commit to specific timelines, so we can orga
 Some items didn't make it into the "Coming Up" section due to security or confidential reason.
 {% endhint %}
 
+
 ### Ongoing/Recurring
 
+* Pre-Sale
+CoxinhaS^ap ^ill use the capital contributed to make a series of
+acquisitions: increase the development team, marketing professionals
+and investments in advertising.\
 * Site-wide UI/UX Upgrates
-* Regular NFT Drops
-* Regular IFOs, Pools + Farms, Farm Auctions
+* CoxinhaSwap NFT Collection
+* Regular IFOs, Pools + Farms, Farm Auction
 * Listing More NFT Collections
 
 ### Coming Up in Q1
@@ -68,11 +68,6 @@ Some items didn't make it into the "Coming Up" section due to security or confid
 * APR/APY Calculator v2
 * Harvest all function
 
-#### Win
-
-* Lottery v2
-* Prediction v0.2
-
 #### NFT Ecosystem
 
 * NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
@@ -84,6 +79,4 @@ Some items didn't make it into the "Coming Up" section due to security or confid
 
 * Mobile-first navigation & site overhaul
 * Analytics: Info site
-* Voting v2
-* IFO CAKE Pool & IFO 3.0
 

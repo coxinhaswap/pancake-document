@@ -4,7 +4,7 @@
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
-  * [Using CoxinhaSwap without Centralized Exchanges](get-started/using-CoxinhaSwap-without-centralized-exchanges.md)
+  * [Using CoxinhaSwap without Centralized Exchanges](get-started/using-pancakswap-without-centralized-exchanges.md)
   * [Connect Your Wallet to CoxinhaSwap](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)
@@ -21,11 +21,11 @@
 
 ## Products
 
-* [🔄 Exchange](products/CoxinhaSwap-exchange/README.md)
-  * [Token Swaps](products/CoxinhaSwap-exchange/trade.md)
-  * [How to Trade](products/CoxinhaSwap-exchange/trade-guide.md)
-  * [Liquidity Pools](products/CoxinhaSwap-exchange/CoxinhaSwap-pools.md)
-  * [How to Add/Remove Liquidity](products/CoxinhaSwap-exchange/liquidity-guide.md)
+* [🔄 Exchange](products/pancakeswap-exchange/README.md)
+  * [Token Swaps](products/pancakeswap-exchange/trade.md)
+  * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
+  * [Liquidity Pools](products/pancakeswap-exchange/pancakeswap-pools.md)
+  * [How to Add/Remove Liquidity](products/pancakeswap-exchange/liquidity-guide.md)
 
 ## Tokenomics
 
@@ -39,9 +39,9 @@
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Bug Bounty](code/bug-bounty.md)
 * [Smart Contracts](code/smart-contracts/README.md)
-  * [CoxinhaSwap Exchange](code/smart-contracts/CoxinhaSwap-exchange/README.md)
-    * [Factory v2](code/smart-contracts/CoxinhaSwap-exchange/factory-v2.md)
-    * [Router v2](code/smart-contracts/CoxinhaSwap-exchange/router-v2.md)
+  * [CoxinhaSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
+    * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
+    * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
 
 ## Hiring
 

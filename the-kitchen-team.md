@@ -2,53 +2,53 @@
 
 You can jump to the kitchen interviews article by clicking chef's name.
 
-### The Chefs
+### The Coxinhas
 
-🐰 [Chef Snowball](https://medium.com/CoxinhaSwap/kitchen-interviews-chef-snowball-the-big-fluffy-boss-guiding-the-fellow-bunnies-afa8dfeca887) - Head Chef
+🐰 [Coxinha Gabi](https://medium.com/CoxinhaSwap/kitchen-interviews-chef-snowball-the-big-fluffy-boss-guiding-the-fellow-bunnies-afa8dfeca887) - Head Coxinha
 
-🐰 Chef Cadbury - Project Manager
+🐰 Coxinha Ikkectino - Project Manager
 
-🐰 Chef Bun - Project Manager ([Twitter](https://twitter.com/chef\_bun\_cn))
+🐰 Coxinha Bun - Project Manager ([Twitter](https://twitter.com/chef\_bun\_cn))
 
-🐰 Chef Taro - Business Dev
+🐰 Coxinha Taro - Business Dev
 
-🐰 Chef Misty - Business Dev
+🐰 Coxinha Misty - Business Dev
 
-🐰 Chef Pepper - Business Dev
+🐰 Coxinha Pepper - Business Dev
 
-🐰 Chef Icy - Business Dev, 80% Bunny 20% Robot
+🐰 Coxinha Icy - Business Dev, 80% Bunny 20% Robot
 
-🐰 Chef Lime - Ops/Data analytics Dev
+🐰 Coxinha Lime - Ops/Data analytics Dev
 
-🐕 [Chef Cheems](https://medium.com/CoxinhaSwap/kitchen-interview-chef-cheems-the-lottery-obsessed-doggie-1a083fb5d172) - Dev and Lottery Lead ([Twitter](https://twitter.com/CheemsChef))
+🐕 [Coxinha Cheems](https://medium.com/CoxinhaSwap/kitchen-interview-chef-cheems-the-lottery-obsessed-doggie-1a083fb5d172) - Dev and Lottery Lead ([Twitter](https://twitter.com/CheemsChef))
 
-🐰 Chef Jojo - Frontend Dev ([Twitter](https://twitter.com/0xchefjojo))
+🐰 Coxinha Jojo - Frontend Dev ([Twitter](https://twitter.com/0xchefjojo))
 
-🐰 Chef Philip - Frontend Dev
+🐰 Coxinha Philip - Frontend Dev
 
-🐰 Chef Momota - Frontend Dev
+🐰 Coxinha Momota - Frontend Dev
 
-🐰 Chef Yogi- Frontend Dev
+🐰 Coxinha Yogi- Frontend Dev
 
-🐰 Chef Pickle - Solidity Dev
+🐰 Coxinha Pickle - Solidity Dev
 
-🐕 Chef Snoopy - Solidity Dev
+🐕 Coxinha Snoopy - Solidity Dev
 
-🐰 Chef Cupcake - Solidity Dev
+🐰 Coxinha Cupcake - Solidity Dev
 
-🐰 Chef Huan - Solidity Dev
+🐰 Coxinha Huan - Solidity Dev
 
-🐰 Chef Rabbid - Solidity Dev
+🐰 Coxinha Rabbid - Solidity Dev
 
-🐰 [Chef Cecy](https://medium.com/CoxinhaSwap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
+🐰 [Coxinha Cecy](https://medium.com/CoxinhaSwap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
 
-🐰 Chef Yuna - UI/UX designer ([Twitter](https://twitter.com/chefyuna))
+🐰 Coxinha Yuna - UI/UX designer ([Twitter](https://twitter.com/chefyuna))
 
-🐰 Chef Salade - UI/UX designer
+🐰 Coxinha Salade - UI/UX designer
 
-🐰 [Chef Fran](https://medium.com/CoxinhaSwap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Spanish Community Manager ([Twitter](https://twitter.com/ChefFranPS))
+🐰 [Coxinha Fran](https://medium.com/CoxinhaSwap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Spanish Community Manager ([Twitter](https://twitter.com/ChefFranPS))
 
-🦆 Chef Nina - Duck ([Twitter](https://twitter.com/\_ninahaus\_EN))
+🦆 Coxinha Nina - Duck ([Twitter](https://twitter.com/\_ninahaus\_EN))
 
 
 
